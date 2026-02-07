@@ -2,5 +2,5 @@
 
 Name: Naser Alenezi
 Section number: 63A
-Goal: pass the class with B grade
+Goal: pass the class with B grade.
 
